@@ -1,7 +1,7 @@
 module.exports = {
-    token: "",
-    channel: "833853700803264555",
+    token: "ODQ4NTM0MzQ5Mzg5MzY1Mjc5.YLOBMQ.Sr7OfuKD2ZqEpzgeMG_PueI1iNU",
+    channel: "848144911638462495",
     messageTemplate: "Slaw @everyone, **{author}** Vedio nwe bllawkrayawa✅ **{title}**!\n{url}",
-    channel_id: "UCFbWvTkRe8Fq2aXmnIvLp9A",
+    channel_id: "UCWwyJkjJz9uTUDM91cwzkzw",
     watchInterval: 30000
 }
